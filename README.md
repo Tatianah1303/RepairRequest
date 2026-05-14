@@ -1,23 +1,22 @@
 <<<<<<< HEAD
 # signalemen_immeubles
+ Signalement et Suivi des Réparations d’Immeubles
+ Description
+Application mobile développée en Flutter avec une base de données PostgreSQL, permettant le signalement et le suivi des réparations dans les immeubles.
+Le projet est conçu et géré via Android Studio.
 
-A new Flutter project.
+ Fonctionnalités principales
+Signalement des problèmes : déclaration des pannes ou anomalies.
 
-## Getting Started
+Suivi des réparations : état d’avancement des interventions.
 
-This project is a starting point for a Flutter application.
+Gestion des immeubles : organisation des données liées aux bâtiments.
 
-A few resources to get you started if this is your first Flutter project:
+Base PostgreSQL : stockage sécurisé et structuré des informations.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+ Technologies utilisées
+Flutter : framework pour le développement mobile multiplateforme.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# Add documentation to README.md
+Android Studio : environnement de développement intégré.
 
-# ProjetFlutter
->>>>>>> 47e6f2d22bc27fd9bb1ae0acd4b374f6fdcbf60a
+PostgreSQL : base de données relationnelle.
